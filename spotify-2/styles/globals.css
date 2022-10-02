@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* moje globální komponenty */
+@layer components {
+    .button {
+        @apply h-5 w-5 cursor-pointer hover:scale-125 transition transform 
+        duration-100 ease-out;
+    }
+
+    .sidePolozky{
+        @apply flex items-center space-x-2 hover:text-white;
+    }
+}
