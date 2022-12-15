@@ -1,0 +1,91 @@
+	NADPIS/TITULEK
+
+1	FEEL ALIVE
+2	NODEMA
+3	NARTURE
+4	THINGS I LOVE
+5	KAŽDODENNOSTI
+6	STARING CONTEST
+7	FA - CASSETTE
+8	ATL
+9	MINERÁLY
+10	STATIONERY
+11	SARDINES
+12	FA - ALT
+13	FLYING COLORS
+14	TIGER
+15	ROCHUS
+16	COMET
+
+17,18,19 - u těch log nemusí být žadný nadpis
+
+
+
+1
+FEEL ALIVE - POSTER COLLETION
+A poster colletion about things that make me feel alive.
+
+2
+NODEMA - POSTER COLLETION
+A colletion of posters symbolizing a man's fight with technology.
+
+3 
+NARTURE - POSTER COLLECTION
+A prequel collection to FEEL ALIVE.
+
+4
+Každodennosti
+Working with Antonín Holec, we created collection of poetry about everyday life.
+
+5 THINGS I LOVE - POSTER COLLECTION
+A collection of posters about things I love.
+
+6
+Staring Contest - James Ivy
+
+7 
+FEEL ALIVE - CASSETTE
+This is what my mixtape would look like.
+
+8 NOTHING PERSONAL - ALL TIME LOW
+
+9
+MINERÁLY
+A series of artworks about properties and shapes of selected minerals.
+
+10
+STATIONERY
+
+11
+SARDINKY
+
+12 FEEL ALIVE - ALTERNATIVE
+An alternative version of one of the FEEL ALIVE posters.
+
+13
+WITH FLYING COLORS
+
+14
+TIGER - LOGO + MERCH
+
+15
+ROCHUS
+
+16
+COMET
+
+17
+AXIS
+
+18
+FLAME ROBIN
+
+19
+JANA'S
+
+
+ABOUT
+
+I’m a 19-year-old Czech graphic designer. My journey in the world of graphic design started 4 years ago, and since then I have been keen on improving my skills as a graphic designer. I specialize in 2D work. Designing posters and digital art fulfills me the most.
+
+
